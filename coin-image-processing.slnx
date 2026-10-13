@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ColorReducer/ColorReducer.csproj" />
+  <Project Path="IslandCounter/IslandCounter.csproj" />
+</Solution>
